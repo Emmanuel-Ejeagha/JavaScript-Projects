@@ -1,3 +1,7 @@
-## Javascript Projects
+# Javascript Projects
 
-<p> This repository contains the lists of projects I built with Javascript
+## This repository contains the lists of projects I built with Javascript
+
+- **Dice Game**
+- **Modal Display**
+- **Guess my number Game**
